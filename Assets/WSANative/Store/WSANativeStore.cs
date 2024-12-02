@@ -14,6 +14,8 @@ using Windows.Services.Store;
 using CI.WSANative.Common;
 #endif
 
+
+
 namespace CI.WSANative.Store
 {
     public static class WSANativeStore
